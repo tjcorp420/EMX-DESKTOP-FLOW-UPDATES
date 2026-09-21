@@ -4,3 +4,4 @@ ca7158c72ff8cf28a433fbf74bc2f1bc7b16d8c725d7accb9ec18253d22d4044  EMX.Desktop.Fl
 3a5a94d1b0f01fdd9df6648b385da311736c98af1d191d6d193b94fe981d676d  EMX.Desktop.Flow.Setup.1.0.27.exe
 707c49aa0cc8d29ca9803502f5f093fd6ab14b1a9cf797455f7fc4a3945d4223  EMX.Desktop.Flow.Setup.1.0.28.exe
 698a7d05861e60f3d05ece3549ac1936d9ce4c4130f9562e4a29dedfa697d5bb  EMX.Desktop.Flow.Setup.1.0.29.exe
+3caf1585a45d6beca9496835846d9674e3fd412ccc3030d1313ae7e86199aba8  EMX.Desktop.Flow.Setup.1.0.30.exe
