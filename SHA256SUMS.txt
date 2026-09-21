@@ -1,1 +1,1 @@
-0b00569f78b08e1acad84246d4df438376512e5751885457b4da8999b2f3d519  EMX.Desktop.Flow.Setup.1.0.23.exe
+ca7158c72ff8cf28a433fbf74bc2f1bc7b16d8c725d7accb9ec18253d22d4044  EMX.Desktop.Flow.Setup.1.0.24.exe
