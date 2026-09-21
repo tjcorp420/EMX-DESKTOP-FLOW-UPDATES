@@ -6,6 +6,7 @@
 - The four published cursor cards continue to represent four complete packs containing 45 cursor files in total; nested pack folders remain supported.
 - Official background cards now show image, GIF, or video previews when media is available.
 - Long background filenames are constrained to their own card and no longer overlap neighboring titles or Download buttons.
+- The Windows tray icon now resolves from the icon actually included in the packaged application, fixing the invisible tray slot.
 - Cursor and background content feeds now locate the newest release containing their catalog instead of assuming the newest application release also contains every content asset.
 
 This release preserves the v1.0.21 wallpaper engine, visualizer, activation recovery, and unified license-key support.
